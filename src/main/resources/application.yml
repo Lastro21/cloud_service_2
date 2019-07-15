@@ -1,0 +1,12 @@
+my_any_app:
+  my_any_id: ${random.uuid}
+
+
+#eureka:
+#  instance:
+#  hostname: discovery
+#  client:
+#  registerWithEureka: false
+#  fetchRegistry: false
+#  serviceUrl:
+#  defaultZone: http://${eureka.instance.hostname}:8761/eureka/
